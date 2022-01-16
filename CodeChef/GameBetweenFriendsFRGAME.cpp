@@ -27,6 +27,8 @@ int main(){
 
 }
 
+// Question link : https://www.codechef.com/CDRV21C/problems/FRGAME
+
 //Input : 
 // 3
 // 2 3 4 5
@@ -37,6 +39,13 @@ int main(){
 // S
 // N
 // S
+
+
+
+
+
+
+
 
 
 

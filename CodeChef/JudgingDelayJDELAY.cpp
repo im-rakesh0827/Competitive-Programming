@@ -17,6 +17,8 @@ int main(){
     return 0;
 }
 
+//Question link : https://www.codechef.com/problems/JDELAY
+
 //Input : 
 // 1
 // 5
@@ -26,5 +28,4 @@ int main(){
 // 1 11 : 11-1 = 10
 // 2 7 : 7-2 = 5
 
-//Output :
-//2
+//Output : 2

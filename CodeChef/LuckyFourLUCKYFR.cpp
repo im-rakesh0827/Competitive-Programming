@@ -18,6 +18,8 @@ int main(){
     return 0;
 }
 
+//Question link : https://www.codechef.com/problems/LUCKYFR
+
 //Input : 
 // 5
 // 447474

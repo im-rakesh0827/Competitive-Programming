@@ -15,6 +15,7 @@ int main(){
     return 0;
 }
 
+//Question link : https://www.codechef.com/problems/CCISLAND
 
 //Input : 
 // 3

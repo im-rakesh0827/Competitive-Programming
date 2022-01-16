@@ -19,6 +19,8 @@ int main(){
     return 0;
 }
 
+//Question link : https://www.codechef.com/problems/HS08TEST
+
 //Input : 
 // 30 120.00
 //Output : 

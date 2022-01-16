@@ -26,6 +26,8 @@ int main() {
 	return 0;
 }
 
+//Question link : https://www.codechef.com/EXUN21C/problems/POPCORN
+
 // Input : 
 // 3
 // 3 6
