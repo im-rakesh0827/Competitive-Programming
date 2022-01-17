@@ -12,8 +12,7 @@ int main(){
         }else{
             B+=C;
         }
-        int loss1 = min(A, B);
-        if(loss1==B){
+        if(A>=B){
             B+=D;
         }else{
             A+=D;
@@ -24,7 +23,6 @@ int main(){
             cout<<"S\n";
         }
     }
-
 }
 
 // Question link : https://www.codechef.com/CDRV21C/problems/FRGAME
@@ -53,9 +51,10 @@ int main(){
 // using namespace std;
 
 // int main() {
-// 	int t,a,b,c,d;
-// 	cin>>t;
-// 	while(t--){
+// 	int T;
+// 	cin>>T;
+// 	while(T--){
+//      int a, b, c, d;
 // 	    cin>>a>>b>>c>>d;
 // 	    if(a>=b) b+=c;
 // 	    else a+=c;
