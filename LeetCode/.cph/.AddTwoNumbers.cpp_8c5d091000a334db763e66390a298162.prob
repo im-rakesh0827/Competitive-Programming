@@ -1,0 +1,1 @@
+{"name":"Local: AddTwoNumbers","url":"/Users/rakeshkumar/Developer/Competitive Programming/LeetCode/AddTwoNumbers.cpp","tests":[{"id":1642150579206,"input":"3\n2 4 3\n3\n5 6 4","output":"7 0 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rakeshkumar/Developer/Competitive Programming/LeetCode/AddTwoNumbers.cpp","group":"local","local":true}
