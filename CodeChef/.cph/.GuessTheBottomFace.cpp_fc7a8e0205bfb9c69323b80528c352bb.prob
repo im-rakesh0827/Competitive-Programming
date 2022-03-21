@@ -1,0 +1,1 @@
+{"name":"Local: GuessTheBottomFace","url":"/Users/rakeshkumar/Developer/Competitive-Programming/CodeChef/GuessTheBottomFace.cpp","tests":[{"id":1647758212860,"input":"3\n3\n1\n6","output":"4\n6\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rakeshkumar/Developer/Competitive-Programming/CodeChef/GuessTheBottomFace.cpp","group":"local","local":true}
